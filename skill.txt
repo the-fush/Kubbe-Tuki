@@ -1,0 +1,4 @@
+Basic movement skill:spin
+Advanced movement skill:bounce
+Basic offense skill:punch
+Advanced movement skill:groundpound
